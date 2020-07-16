@@ -1,0 +1,24 @@
+# System and other files to ignore
+*.egg
+*.log*
+*.py[co]
+*.sqlite3
+
+# IDE configs
+**/.idea
+
+# cache
+**/.cache
+**/.pytest_cache
+**/.module-cache
+**/__pycache__
+
+# virtualenvs
+**/.python-version
+
+# coverage report
+**/htmlcov
+**/.coverage
+**/coverage.xml
+
+.env
