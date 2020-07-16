@@ -1,2 +1,2 @@
 # govkino
-pet project in django with full test coverage
+pet project in django(DRF) with full test coverage
