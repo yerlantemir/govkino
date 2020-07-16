@@ -7,8 +7,10 @@
 # IDE configs
 **/.idea
 
-# cache
-__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
 **/.cache
 **/.pytest_cache
 **/.module-cache
