@@ -2,7 +2,7 @@ asgiref==3.2.7
 attrs==19.3.0
 Babel==2.8.0
 bandit==1.6.2
-certifi==2020.4.5.1
+certifi==2022.12.7
 coverage==5.1
 Django==3.0.5
 django-debug-toolbar==2.2
